@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Solidity in the Hardhat development Environment, alongside Javascript.**
 
-- My Graphic Design Projects [https://behance.net/ricoartstm](https://behance.net/ricoartstm)
+- 🎨 My Graphic Design Projects [https://behance.net/ricoartstm](https://behance.net/ricoartstm)
 
 - 📫 How to reach me **ricoberan@outlook.com**
 
