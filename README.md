@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rico Beran</h1>
 <h3 align="center">I'm a London-based Graphic Designer and Blockchain Enthusiast. I'm new to the Blockchain and Web3 space, follow my journey here!</h3>
 
-- 🌱 I’m currently learning **Solidity in the Hardhat development Environment, alongside Javascript.**
+- 🌱 I’m currently learning **Web development with The Odin Project (HTML,CSS,Javascript).**
 
 - 🎨 My Graphic Design Projects [https://behance.net/ricoartstm](https://behance.net/ricoartstm)
 
